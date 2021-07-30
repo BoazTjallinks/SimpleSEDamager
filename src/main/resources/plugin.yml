@@ -1,0 +1,8 @@
+name: SimpleThrowDamange
+version: ${project.version}
+main: nl.blltjallinks.simplethrowdamange.SimpleThrowDamange
+api-version: 1.17
+commands:
+  setThrowVelocity:
+    description: Set velocity of snowballs & eggs
+    usage: /setThrowVelocity
